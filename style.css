@@ -1,0 +1,9 @@
+.bg-box{
+    width: 1000px;
+    height: 600px;
+    background-color: green;
+    background-image: url(./img/homeandgrass.webp),url(./img/hedgehog.webp),url(./img/donut.png),url(./img/lamp.png),url(./img/grass.png);
+    background-position: center, left, right, top, bottom;
+    background-repeat: no-repeat,repeat-y,repeat-y,repeat-x,repeat-x;
+    background-size: auto,50px,50px,50px,200px;
+}
